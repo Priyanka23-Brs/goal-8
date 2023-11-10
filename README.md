@@ -1,4 +1,4 @@
-# BlueOrigin Shop Clone
+# BlueOrigin Shop 
 
 ###### Purpose:
     To Replicate home page of Blue Origin
